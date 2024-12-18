@@ -1,0 +1,83 @@
+* {
+margin:0px;
+padding:0px;
+}
+body{
+    background-color: blueviolet;
+    font-family:'Roboto',sans-serif;
+}
+p{
+    float: right;
+    width: 70%;
+}
+
+
+
+
+
+
+.container{
+    max-width: 1000px;
+    background-color:wheat;
+    margin: 0 auto;
+    padding: 20px;
+}
+header{
+
+}
+.profile-image{
+width:100px ;
+height:120px;
+border: 2px solid white;
+border-radius: 50px;
+float: left;
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+color:rgb(255, 127, 197);
+}
+
+.header-contact{
+    float: right;
+    padding: 30px;
+    color: rgb(255, 127, 197);
+    font-weight: bold;
+    text-decoration: underline;
+    color: tomato;
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    border:solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom:none;
+}
+
+.left-div{
+width: 30%;
+float: left;
+}
+.right-div{
+width:70%
+float:left;
+}
+
+p{
+    float: right;
+}
+
+.bottom-container{
+    background-color:black;
+    text-align:center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: white;
+   
+    margin-top: 20px;
+}
